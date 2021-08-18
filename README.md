@@ -7,7 +7,7 @@ We can do this with CPU as well as GPU. By default, it will execute on CPU but i
 
 I have used GPU to run my model. <br/>
 
-This project consist of various parts:
+This project consists of various parts:
 ### Part1: Import training data <br/>
 I have used Pima Indians Diabetes Database from Kaggle [https://www.kaggle.com/uciml/pima-indians-diabetes-database]
 ### Part2: Visualization of data <br/> 
